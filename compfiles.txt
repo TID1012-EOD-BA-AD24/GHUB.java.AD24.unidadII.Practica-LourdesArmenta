@@ -1,5 +1,6 @@
 ./cola/Nodo.java
 ./cola/Cola.java
+./delimitadores/AppDellimitadores.java
 ./delimitadores/Delimitadores.java
 ./hash/TestHashTable.java
 ./hash/Persona.java
@@ -19,4 +20,5 @@
 ./miPrincipal/Principal.java
 ./miPrincipal/ClienteDelimitador2.java
 ./miPrincipal/AppDelimitador.java
+./listaContactos/Contacto.java
 ./miTest/AppTest.java

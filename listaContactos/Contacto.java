@@ -59,7 +59,7 @@ public class Contacto {
 
 
     public String toString() {
-        return  nombres + ", " + apellido + ", " + direccion + ", "
+        return  nombres + ", " + apellidos + ", " + direccion + ", "
                 + correo + ", " + telefono + ", " + celular ;
     }
 

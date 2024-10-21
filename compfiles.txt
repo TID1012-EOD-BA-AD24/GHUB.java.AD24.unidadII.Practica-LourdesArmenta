@@ -20,5 +20,7 @@
 ./miPrincipal/Principal.java
 ./miPrincipal/ClienteDelimitador2.java
 ./miPrincipal/AppDelimitador.java
+./listaContactos/ClienteMain.java
 ./listaContactos/Contacto.java
+./listaContactos/ListaDeContactos.java
 ./miTest/AppTest.java
